@@ -1,6 +1,6 @@
 # First_Project_Mobile 📱
-
-Projeto tem como foco principal, entregar atividade PTI do curso Analise e desenvolvimento de sistemas que é ministrado pelo instituto de ensino SENAC.
+Objetivo:
+  Projeto tem como foco principal, entregar atividade PTI do curso Analise e desenvolvimento de sistemas que é ministrado pelo instituto de ensino SENAC.
   
   
 ### Ferramentas para desenvolver:
